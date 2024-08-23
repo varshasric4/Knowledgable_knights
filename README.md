@@ -1,5 +1,5 @@
 # Knight's Tour with GUI and Media Integration
- <!-- Replace with your actual image link -->
+
  https://github.com/user-attachments/assets/26cbb3e2-9a4e-4733-b531-24c836d5120d
 
 # Description
